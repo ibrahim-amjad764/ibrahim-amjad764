@@ -35,9 +35,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=ibrahim-amjad764&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+</p>
 ### 📬 Connect With Me
 - LinkedIn: [ibrahim-amjad-0ab331246](https://www.linkedin.com/in/ibrahim-amjad-0ab331246)
 - Email: ibrahimamjad126@gmail.com
