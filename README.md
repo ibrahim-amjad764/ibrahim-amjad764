@@ -38,6 +38,7 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
 </p>
+
 ### 📬 Connect With Me
 - LinkedIn: [ibrahim-amjad-0ab331246](https://www.linkedin.com/in/ibrahim-amjad-0ab331246)
 - Email: ibrahimamjad126@gmail.com
